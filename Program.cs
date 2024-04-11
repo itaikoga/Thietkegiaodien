@@ -131,7 +131,7 @@ namespace DijkstraTest2
                 v = u;
             }
             double sl = km * 0.09;
-            int sd = km * 2232;
+            int sd = km * 2043;
             count++;
             if (count >= n)
             {
