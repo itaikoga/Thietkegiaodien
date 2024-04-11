@@ -1,0 +1,10 @@
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\Thiet Ke Giao Dien.csproj.AssemblyReference.cache
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\Thiet Ke Giao Dien.csproj.GenerateResource.cache
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\Thiet Ke Giao Dien.csproj.CoreCompileInputs.cache
+C:\Users\thong\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\thong\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\thong\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\DijkstraTest2.Form1.resources
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\thong\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

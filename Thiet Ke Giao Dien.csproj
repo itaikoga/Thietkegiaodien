@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Resources.Designer.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364aa27f751d0ed4114ac93baa76eeb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364aa27f751d0ed4114ac93baa76eeb11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364aa27f751d0ed4114ac93baa76eeb12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1324532-removebg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1324532-removebg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04142915-ban-do-cac-tinh-mien-nam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04142915-ban-do-cac-tinh-mien-nam-removebg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04142915-ban-do-cac-tinh-mien-nam-removebg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh-nen-xanh-ngoc-2k-dep-cho-may-tinh_100606472.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-09 145503.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vintage-blue-europe-map-retro-background-based-image-furnished-nasa-159657999.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world-map-concept-for-web-design-background-web-banner-printed-material-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\World-Map-Vector-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world-map-with-countries-on-blue-background-vector-1336799.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Worldwide-Express-Delivery-Icon-Graphics-8778747-2-580x386.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-09 1455031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-09 1455032.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-04-09 1455033.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364aa27f751d0ed4114ac93baa76eeb13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\364aa27f751d0ed4114ac93baa76eeb14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\972c9585d62a3febd6acb81eec25ee01.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

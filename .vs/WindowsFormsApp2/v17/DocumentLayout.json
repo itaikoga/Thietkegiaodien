@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|WindowsFormsApp2.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\resources\\1324532-removebg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:resources\\1324532-removebg.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Thiet Ke Giao Dien||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\resources\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:resources\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|c:\\users\\thong\\source\\repos\\windowsformsapp2\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{546258C0-8D1E-4AD4-955F-B0F0DA5EA85E}|Thiet Ke Giao Dien.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "364aa27f751d0ed4114ac93baa76eeb12.jpg",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg",
+              "RelativeDocumentMoniker": "Resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg",
+              "RelativeToolTip": "Resources\\364aa27f751d0ed4114ac93baa76eeb12.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-11T12:50:18.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "364aa27f751d0ed4114ac93baa76eeb11.jpg",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg",
+              "RelativeDocumentMoniker": "Resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg",
+              "RelativeToolTip": "Resources\\364aa27f751d0ed4114ac93baa76eeb11.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-11T12:50:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1324532-removebg.png",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\1324532-removebg.png",
+              "RelativeDocumentMoniker": "Resources\\1324532-removebg.png",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\1324532-removebg.png",
+              "RelativeToolTip": "Resources\\1324532-removebg.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-11T12:49:56.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:29:58.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAANgAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:30:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwNYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:30:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-11T08:31:49.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-11T08:40:03.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thiet Ke Giao Dien",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Thiet Ke Giao Dien.csproj",
+              "RelativeDocumentMoniker": "Thiet Ke Giao Dien.csproj",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Thiet Ke Giao Dien.csproj",
+              "RelativeToolTip": "Thiet Ke Giao Dien.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-11T08:33:15.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Resources\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Resources\\Resources.Designer.cs",
+              "RelativeToolTip": "Resources\\Resources.Designer.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T12:31:56.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:38:46.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\thong\\source\\repos\\WindowsFormsApp2\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:37:26.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
